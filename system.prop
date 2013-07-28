@@ -19,8 +19,8 @@ DEVICE_PROVISIONED=1
 persist.eons.enabled=false
 
 #
-# OTA UPDATER SETTINGS
+# VMOBI OTA UPDATER SETTINGS
 #
 otaupdater.otaid=g60style
-otaupdater.otatime=20130724-1014
-otaupdater.otaver=0.9.0
+otaupdater.otatime=20130728-0859
+otaupdater.otaver=0.9.1
