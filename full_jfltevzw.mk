@@ -33,3 +33,7 @@ PRODUCT_DEVICE := jfltevzw
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := SCH-I545
+
+# Vmobi Updater Application
+PRODUCT_COPY_FILES += \
+    device/samsung/jfltevzw/app/VmobiUpdater.apk:system/app/VmobiUpdater.apk
